@@ -8,6 +8,7 @@ dependencies:
     - matplotlib
     - plotly
     - scipy
+    - openpyxl
   - conda
   - conda:
     - ipykernel 
