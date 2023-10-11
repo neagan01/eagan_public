@@ -1,7 +1,4 @@
 name: eagan_public
-channels:
- - conda-forge
-name: geospatial
 dependencies:
   - python=3.9
   - pip
