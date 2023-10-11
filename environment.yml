@@ -1,35 +1,10 @@
-name: ds
+name: eagan_public
 channels:
  - conda-forge
 
 dependencies:
- - bokeh
- - cartopy
- - colorcet
- - graphviz
- - python-graphviz
- - dask
- - datashader
- - distributed
- - fastparquet
- - holoviews
- - ipython
- - jupyter
- - matplotlib
- - networkx>=2.0
- - numba
- - numpy
- - pandas >=0.24.1
- - param
- - python-snappy
- - python
- - rasterio
- - requests
- - scikit-image
- - scipy
- - shapely
- - snappy
- - statsmodels
- - streamz
- - xarray
- - ipympl
+ - numpy==1.18.1
+ - matplotlib==3.1.3
+ - scipy==1.4.1
+ - pandas==1.0.1
+ - plotly
